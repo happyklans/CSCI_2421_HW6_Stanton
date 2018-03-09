@@ -15,6 +15,14 @@ using namespace std;
 
 int main()
 {
+	
+	
 	list<DictEntry> dictionary;
 	
+	list<DictEntry>::iterator iter;
 	
+	
+	
+	
+	return 0;
+}
