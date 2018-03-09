@@ -301,3 +301,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.sln
+CSCI_2421_HW6.vcxproj
+*.filters
